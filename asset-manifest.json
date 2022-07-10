@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/todo-with-RTK/static/js/main.5de3a133.js",
+    "static/media/delete.svg": "/todo-with-RTK/static/media/delete.d6b1191273c6a4a5e7c523003c3d480a.svg",
+    "static/media/edit.svg": "/todo-with-RTK/static/media/edit.3ab33aa60345448bde26e97bb12f48cc.svg",
+    "index.html": "/todo-with-RTK/index.html",
+    "static/media/add.svg": "/todo-with-RTK/static/media/add.89bbf867ffbdf6e698a9ebe742c59e9b.svg",
+    "main.5de3a133.js.map": "/todo-with-RTK/static/js/main.5de3a133.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5de3a133.js"
+  ]
+}
