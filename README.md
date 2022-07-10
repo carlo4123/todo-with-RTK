@@ -20,7 +20,7 @@
 
 <img src="../main/src/assets/ui.png" alt="UI Sample" />
 
-<h2>-ReactJS</h2>
+<h2>Stacks </h2>
 <ul>
  <li><h4>-ReactJS</h4></li>
  <li><h4>styled-components</h4></li>
