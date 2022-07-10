@@ -18,7 +18,7 @@
 
 ![screenshot]
 
-<img src="../src/assets/ui.png" alt="UI Sample" />
+<img src="../main/src/assets/ui.png" alt="UI Sample" />
 
 <h2>-ReactJS</h2>
 <ul>
