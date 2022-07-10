@@ -6,7 +6,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://carlo4123.github.io/todo-with-RTK/">
+    <a href="carlo4123.github.io/todo-with-RTK">
       source code
     </a>
     <span> | </span>
