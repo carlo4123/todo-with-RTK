@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://carlo4123.github.io/todo-with-RTK">
+    <a href="https://carlo4123.github.io/todo-with-RTK/">
       Demo 
     </a>
     <span> | </span>
